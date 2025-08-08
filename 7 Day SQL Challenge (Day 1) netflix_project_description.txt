@@ -1,0 +1,37 @@
+
+Project: Netflix Movies & TV Shows SQL Practice
+
+Dataset Description:
+This dataset contains information about movies and TV shows available on Netflix. 
+It includes various attributes such as title, type, release year, runtime, IMDb scores, age certification, and more.
+We used this dataset to practice SQL queries and perform exploratory data analysis.
+
+Dataset Columns:
+1. title - Name of the movie or TV show
+2. type - Either 'MOVIE' or 'SHOW'
+3. release_year - Year in which the title was released
+4. age_certification - Age rating of the content (e.g., PG, R, 18+)
+5. runtime_minutes - Duration of the movie/show in minutes
+6. imdb_score - IMDb rating (float value)
+7. imdb_votes - Number of votes received on IMDb
+8. other columns may contain genre, description, etc.
+
+Objective:
+Our goal was to practice different SQL skills including filtering, aggregation, grouping, and ordering by 
+answering the following questions:
+
+Queries Performed:
+1. Find total number of movies and TV shows.
+2. Count content per age certification.
+3. Calculate average IMDb score by type (movie vs TV show).
+4. Identify the most common release year.
+5. List top 5 titles with highest IMDb score.
+6. Count titles per release year.
+7. Find count of movies with runtime over 120 minutes.
+8. Calculate average IMDb score by age certification.
+9. Count titles released before the year 2000.
+10. List titles with IMDb score greater than the overall average.
+
+Outcome:
+By completing these 10 queries, we successfully explored and analyzed key aspects of the Netflix dataset 
+while strengthening SQL query writing skills.
