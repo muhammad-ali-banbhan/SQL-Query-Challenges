@@ -1,0 +1,35 @@
+
+Project Title: Day 2 - SQL Practice on Netflix Shows & Movies Dataset
+
+Dataset Overview:
+This dataset contains information about movies and TV shows available on Netflix.
+Our goal for Day 2 was to practice intermediate SQL queries using real-world data.
+
+Dataset Size:
+- Total rows: X (replace with actual number of rows)
+- Total columns: 9
+
+Columns Description:
+1. id                → Unique identifier for each title.
+2. title             → Name of the movie or TV show.
+3. type              → Indicates whether the record is a MOVIE or SHOW.
+4. release_year      → Year when the title was released.
+5. age_certification → Age rating or certification for the content.
+6. runtime_minutes   → Duration of the movie/show in minutes.
+7. imdb_id           → Unique IMDb identifier.
+8. imdb_score        → IMDb rating score.
+9. imdb_votes        → Total number of IMDb votes.
+
+Objective of the Project:
+We aimed to perform SQL queries to:
+- Filter data based on release year, rating, and content type.
+- Find top-rated movies and shows.
+- Identify the oldest and newest releases.
+- Calculate average ratings and votes.
+- Perform aggregate operations like MIN, MAX, AVG, COUNT.
+- Work with ORDER BY, GROUP BY, and LIMIT clauses.
+- Explore percentile-based analysis (adjusted for MySQL).
+
+Outcome:
+The project helped strengthen understanding of filtering, sorting, aggregation,
+and analytical SQL functions using a real dataset.
